@@ -1,4 +1,4 @@
-<a href="https://github.com/dellstorecpm/" target="blank"><img align="center" src="https://im.ezgif.com/tmp/ezgif-1-b363a37ed2.gif" alt="My tiktok" height="1600" width="920" /></a>
+<a href="https://github.com/dellstorecpm/" target="blank"><img align="center" src="https://im.ezgif.com/tmp/ezgif-1-b363a37ed2.gif" alt="My tiktok" height="720" width="720" /></a>
 <h1 align="center">Hi 👋, I'm Adella</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
