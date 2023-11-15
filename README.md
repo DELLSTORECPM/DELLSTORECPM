@@ -1,4 +1,4 @@
-<img align="center" alt="profile" width="500" src="https://im.ezgif.com/tmp/ezgif-1-b363a37ed2.gif">
+<img align="center" alt="profile" width="1080x1920" src="https://im.ezgif.com/tmp/ezgif-1-b363a37ed2.gif">
 <h1 align="center">Hi 👋, I'm Adella</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
