@@ -1,12 +1,11 @@
-<img align="center" alt="profile" width="1080x1920" src="https://im.ezgif.com/tmp/ezgif-1-b363a37ed2.gif">
+<img align="center" alt="profile" width="500" src="https://im.ezgif.com/tmp/ezgif-1-b363a37ed2.gif">
 <h1 align="center">Hi 👋, I'm Adella</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dellstorecpm&label=Profile%20views&color=0e75b6&style=flat" alt="dellstorecpm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dellstorecpm" alt="dellstorecpm" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-- 🔭 only beginners enjoy creating **Dellstore**
+- 🔭 only beginners enjoy creating *DELLSTORE*
 
 - 👯 I’m looking to collaborate on [Whatsapp](https://wa.me/+6285953890866)
 
@@ -26,10 +25,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dellstorecpm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dellstorecpm" /></a></p><br><br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dellstorecpm&show_icons=true&locale=en&layout=compact" alt="dellstorecpm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dellstorecpm&show_icons=true&locale=en" alt="dellstorecpm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dellstorecpm&" alt="dellstorecpm" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/dellstorecpm/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryo-ma&show_icons=true&locale=en&layout=compact" alt="dellstorecpm"(https://github.com/dellstorecpm/)/></p>
 
