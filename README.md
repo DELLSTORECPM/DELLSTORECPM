@@ -1,4 +1,4 @@
-<img align="center" alt="profile" width="500" src="https://im.ezgif.com/tmp/ezgif-1-b363a37ed2.gif">
+<img align="center" alt="profile" height="1600"width="920" src="https://im.ezgif.com/tmp/ezgif-1-b363a37ed2.gif">
 <h1 align="center">Hi 👋, I'm Adella</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
@@ -18,7 +18,7 @@
 <a href="https://instagram.com/dellstorecpm" target="blank"><img align="center" src="https://media.tenor.com/aCp70-I4zIkAAAAC/instagram-logo.gif " alt="dellstorecpm" height="30" width="40" /></a>
 <a href="https://wa.me/+6285953890866" target="blank"><img align="center" src="https://media.tenor.com/rZPzTbfYtC4AAAAM/whats-app.gif" alt="My Whatsapp" height="30" width="40" /></a>
 <a href="https://www.tiktok.com/@dellstorecpm.id/" target="blank"><img align="center" src="https://i.pinimg.com/originals/77/97/19/7797190f0f3efd9d5b0b96963d97ed5a.gif" alt="My tiktok" height="30" width="40" /></a>
-<a href="https://facebook.com/adelaparamayoga" target="blank"><img align="center" src="https://media.tenor.com/5pPn7yJTgcAAAAAC/meta-facebook.gif" alt="My tiktok" height="30" width="40" /></a>
+<a href="https://facebook.com/adelaparamayoga" target="blank"><img align="center" src="https://static.dezeen.com/uploads/2019/11/facebook-redesign_dezeen-sq.gif" alt="My tiktok" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
