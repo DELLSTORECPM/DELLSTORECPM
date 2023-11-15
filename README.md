@@ -1,4 +1,4 @@
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6c43ac8a-1cc4-46f4-a89a-b74636a40473/d6pqie5-7cc46914-8fb5-4ba6-ad41-406940442d29.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZjNDNhYzhhLTFjYzQtNDZmNC1hODlhLWI3NDYzNmE0MDQ3M1wvZDZwcWllNS03Y2M0NjkxNC04ZmI1LTRiYTYtYWQ0MS00MDY5NDA0NDJkMjkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JEUdE8iglTfjFldmJ3C6woVblZqetFkRRdz2URtHvco)](https://google.com)
+[![MasterHead](https://sendeyo.com/en/7e8662054d)](https://google.com)
 <h1 align="center">Hi 👋, I'm Adella</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
