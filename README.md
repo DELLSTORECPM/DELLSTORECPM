@@ -1,4 +1,4 @@
-[![MasterHead](https://sendeyo.com/en/7e8662054d)](https://sendeyo.com)
+<img align="center" alt="profile" width="500" src="https://im.ezgif.com/tmp/ezgif-1-b363a37ed2.gif">
 <h1 align="center">Hi 👋, I'm Adella</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
@@ -32,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dellstorecpm&show_icons=true&locale=en" alt="dellstorecpm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dellstorecpm&" alt="dellstorecpm" /></p>
-
+[![MasterHead]()](https://google.com)
