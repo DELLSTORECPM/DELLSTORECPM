@@ -8,7 +8,7 @@
 
 - 🔭 only beginners enjoy creating **Dellstore**
 
-- 👯 I’m looking to collaborate on [https://wa.me/+6285953890866](https://wa.me/+6285953890866)
+- 👯 I’m looking to collaborate on [Whatsapp](https://wa.me/+6285953890866)
 
 - 🤝 I’m looking for help with [Whatsapp](https://wa.me/+6285953890866)
 
