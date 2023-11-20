@@ -1,4 +1,4 @@
-<img align="center" alt="profile" width="920" src="https://im.ezgif.com/tmp/ezgif-1-b363a37ed2.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+Friends%F0%9F%91%8B;Wellcome+to+dellstore+github)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Adella</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
